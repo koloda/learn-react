@@ -1,0 +1,7 @@
+const ACTION_TYPES = {
+    ADD_ITEM: 'ADD_ITEM',
+    LOADING_START: 'LOADING_START',
+    LOADING_END: 'LOADING_END'
+}
+
+export default ACTION_TYPES;

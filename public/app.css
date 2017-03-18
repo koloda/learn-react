@@ -1,0 +1,14 @@
+.hidden {
+    display: none;
+}
+
+form, .show-form-btn {
+    margin-top: 38px;
+}
+form>.form-control {
+    margin-bottom: 12px;
+}
+
+a.active {
+    text-decoration: underline;
+}
